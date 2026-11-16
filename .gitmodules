@@ -1,0 +1,3 @@
+[submodule "inscd-streamlit"]
+	path = inscd-streamlit
+	url = git@github.com:0rphee/inscd-streamlit.git
