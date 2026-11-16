@@ -1,3 +1,6 @@
 [submodule "inscd-streamlit"]
 	path = inscd-streamlit
 	url = git@github.com:0rphee/inscd-streamlit.git
+[submodule "Inteligencia-de-Negocio-y-Soluciones-de-Ciencia-de-Datos"]
+	path = Proyecto-Final-Inteligencia-de-Negocio-y-Soluciones-de-Ciencia-de-Datos
+	url = git@github.com:CarlosFoV/Inteligencia-de-Negocio-y-Soluciones-de-Ciencia-de-Datos.git
